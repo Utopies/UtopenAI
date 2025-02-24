@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopen AI", "Utopen AI\Utopen AI.csproj", "{70BB56B2-9B5D-4F2C-8DF9-A80A5DE49DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BB56B2-9B5D-4F2C-8DF9-A80A5DE49DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BB56B2-9B5D-4F2C-8DF9-A80A5DE49DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BB56B2-9B5D-4F2C-8DF9-A80A5DE49DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BB56B2-9B5D-4F2C-8DF9-A80A5DE49DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

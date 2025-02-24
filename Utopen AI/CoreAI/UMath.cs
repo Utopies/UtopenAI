@@ -1,6 +1,8 @@
-﻿namespace Utopen_AI.CoreAI;
+﻿using Microsoft.VisualBasic;
 
-public class UMath
+namespace Utopen_AI.CoreAI;
+
+struct UMath
 {
-    
+    public const float E = 2.7183f;
 }
